@@ -7,11 +7,17 @@ I love silverwolf.
 
 ```html
 <profile>
-  <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="1">
-    <role name="Imperial College Game Development Society" position="Secretary">
-  </college>
-  <company name="10botics" position="Software Engineer (Intern)"></company>
-  <company name="Turbulence Creative" position="Core Team Consultant"></company>
+  <education>
+    <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="2">
+      <role name="Imperial College Game Development Society" position="Secretary">
+      <grade type="college" level="First Class Honours">
+    </college>
+  </education>
+  <experience>
+    <company name="10botics" position="Software Engineer (Intern)"></company>
+    <company name="Turbulence Creative" position="Core Team Consultant"></company>
+    <company name="Macrosium" position="Director and Developer"></company>
+  </experience>
 </profile>
 ```
 <h2>Languages and Frameworks</h2>
@@ -45,8 +51,9 @@ Currently helping out with (creating bugs on) ...
 <br>
 <img src="https://github.com/pagefaultgames/pokerogue/blob/main/public/images/logo.png" width="200" alt="PokéRogue"><br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="20">
-## [Imperial CS Y1 Tracker](https://mewtwo2387.github.io/Tracker/)
-The only useful thing in this list.
+
+## [Imperial CS Grade Tracker](https://mewtwo2387.github.io/Tracker/)
+Grade Tracker for Y1 and Y2 Computing. The only useful thing in this list.
 <br>
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="20" style="display:inline">
@@ -66,6 +73,14 @@ Now with mining and crafting in Alpha 1.1.3.
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="20" style="display:inline">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="20" style="display:inline">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="20" style="display:inline">
+</div>
+
+## [Silverwolf Bot](https://github.com/Mewtwo2387/Silverwolf)
+A multipurpose bot doing random stuff
+
+<br>
+<div style="display: inline;">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="20" style="display:inline">
 </div>
 
 ## [Project Keqei](https://mewtwo2387.github.io/Project%20Keqei/)
@@ -94,5 +109,5 @@ An AI made with Deep Q-Learning, used to reduce queueing time in multi-queue sys
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="20">
 </div>
 
-### See the other random 10 projects in [my website's repository](https://github.com/Mewtwo2387/mewtwo2387.github.io)
+## See other random stuff on [my website](https://mewtwo2387.github.io)
 
