@@ -10,11 +10,18 @@ I love silverwolf.
   <education>
     <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="2">
       <role name="Imperial College Game Development Society" position="Secretary">
+      <award type="hackathon" name="ICHack 2025" challenge="Optiver Trading Challenge" rank="2nd">
+      <award type="scholarship" name="HKSES">
       <grade type="college" level="First Class Honours">
     </college>
+    <award type="research" name="55th JSSE Proposal Competiton" rank="2nd runner up">
+    <award type="math" name="2021 HKMO" rank="2nd class honour">
+    <award type="programming" name="2021 HKOI" rank="gold">
+    <award type="programming" name="2020 HKOI" rank="gold">
   </education>
   <experience>
-    <company name="10botics" position="Software Engineer (Intern)"></company>
+    <company name="Revolut" position="Python Engineer" incoming></company>
+    <company name="10botics" position="Software Engineer (Intern)" times="2"></company>
     <company name="Turbulence Creative" position="Core Team Consultant"></company>
     <company name="Macrosium" position="Director and Developer"></company>
   </experience>
@@ -33,17 +40,28 @@ I love silverwolf.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-**6 years of front-end development experience in...**
+**7 years of front-end development experience in...**
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**2 years of back-end development experience in...**
+**3 years of back-end development experience in...**
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+**Also experienced in**
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Discord Developer API](https://img.shields.io/badge/Discord_Developer_API-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <h2>Projects</h2>
 
@@ -65,9 +83,9 @@ Grade Tracker for Y1 and Y2 Computing. The only useful thing in this list.
 ## [Avaritilax 4](https://mewtwo2387.github.io/Avaritilax/)
 A remade version of [Idle Snorlax 3](https://mewtwo2387.github.io/SC3/) with slightly better everything.
 
-This is probably the only thing that is playable here.
+4th game of the Idle Snorlax series. An idle incremental game about feeding a Snorlax, with additional minigames such as mining and crafting.
 
-Now with mining and crafting in Alpha 1.1.3.
+Currently in alpha.
 <br>
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="20" style="display:inline">
@@ -81,6 +99,8 @@ A multipurpose bot doing random stuff
 <br>
 <div style="display: inline;">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="20" style="display:inline">
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="JS" height="20" style="display:inline">
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" height="20" style="display:inline">
 </div>
 
 ## [Project Keqei](https://mewtwo2387.github.io/Project%20Keqei/)
@@ -98,8 +118,6 @@ soon™
 
 ## [QueQat](https://mewtwo2387.github.io/QueQat)
 An AI made with Deep Q-Learning, used to reduce queueing time in multi-queue systems where different people have different service times, such as supermarkets. QueQat can assign customers to queues based on their service time, and can reduce the total waiting time by approximately 20%.
-
-*(Wow, a project that is actually complete here! Unfortunately, the flask app isn't up either so there's nothing to try. Unless you time travel back to August 2022 in Hong Kong Central Library to find me in an exhibition.)*
 
 <br>
 <div style="display: inline;">
