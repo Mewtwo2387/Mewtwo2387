@@ -8,7 +8,7 @@ I love silverwolf.
 ```html
 <profile>
   <education>
-    <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="2">
+    <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="3">
       <role name="Imperial College Game Development Society" position="Secretary">
       <award type="hackathon" name="ICHack 2025" challenge="Optiver Trading Challenge" rank="2nd">
       <award type="scholarship" name="HKSES">
@@ -20,7 +20,8 @@ I love silverwolf.
     <award type="programming" name="2020 HKOI" rank="gold">
   </education>
   <experience>
-    <company name="Revolut" position="Python Engineer" incoming></company>
+    <company name="Arctic Lake" position="Electronic Trading Developer" incoming></company>
+    <company name="Revolut" position="Python Engineer"></company>
     <company name="10botics" position="Software Engineer (Intern)" times="2"></company>
     <company name="Turbulence Creative" position="Core Team Consultant"></company>
     <company name="Macrosium" position="Director and Developer"></company>
