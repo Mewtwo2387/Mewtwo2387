@@ -8,10 +8,11 @@ I love silverwolf.
 ```html
 <profile>
   <education>
-    <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="3">
+    <college name="Imperial College London" degree="MEng Computing (Software Engineering)" year="4">
       <role name="Imperial College Game Development Society" position="Secretary">
       <award type="hackathon" name="ICHack 2025" challenge="Optiver Trading Challenge" rank="2nd">
       <award type="scholarship" name="HKSES">
+      <award type="other" name="Advent of Code 2025" rank="3rd">
       <grade type="college" level="First Class Honours">
     </college>
     <award type="research" name="55th JSSE Proposal Competiton" rank="2nd runner up">
@@ -20,11 +21,9 @@ I love silverwolf.
     <award type="programming" name="2020 HKOI" rank="gold">
   </education>
   <experience>
-    <company name="Arctic Lake" position="Electronic Trading Developer" incoming></company>
+    <company name="Arctic Lake" position="Electronic Trading Developer" current></company>
     <company name="Revolut" position="Python Engineer"></company>
     <company name="10botics" position="Software Engineer (Intern)" times="2"></company>
-    <company name="Turbulence Creative" position="Core Team Consultant"></company>
-    <company name="Macrosium" position="Director and Developer"></company>
   </experience>
 </profile>
 ```
@@ -33,13 +32,13 @@ I love silverwolf.
 **Proficent in...**
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 **Experienced in...**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -65,11 +64,6 @@ I love silverwolf.
 ![Discord Developer API](https://img.shields.io/badge/Discord_Developer_API-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <h2>Projects</h2>
-
-Currently helping out with (creating bugs on) ... 
-<br>
-<img src="https://github.com/pagefaultgames/pokerogue/blob/main/public/images/logo.png" width="200" alt="PokéRogue"><br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" height="20">
 
 ## [Imperial CS Grade Tracker](https://mewtwo2387.github.io/Tracker/)
 Grade Tracker for Y1 and Y2 Computing. The only useful thing in this list.
@@ -127,6 +121,10 @@ An AI made with Deep Q-Learning, used to reduce queueing time in multi-queue sys
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="20">
 </div>
-
 ## See other random stuff on [my website](https://mewtwo2387.github.io)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mewtwo2387/Mewtwo2387/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mewtwo2387/Mewtwo2387/output/github-contribution-grid-snake.svg">
+  <img alt="snek" src="https://raw.githubusercontent.com/Mewtwo2387/Mewtwo2387/output/github-contribution-grid-snake.svg">
+</picture>
